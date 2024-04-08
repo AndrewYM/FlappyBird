@@ -1,6 +1,6 @@
 # Игра Flappy Bird
 
-![Flappy Bird](flappy_bird_screenshot.png)
+![Flappy Bird](icon.png)
 
 Этот репозиторий содержит реализацию классической аркадной игры "Flappy Bird" на языке программирования C# с использованием интегрированной среды разработки Unity.
 
